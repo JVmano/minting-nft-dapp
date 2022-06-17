@@ -42,6 +42,12 @@ import NetworkConfigInterface from '../../../../erc721-dynamic-suply/lib/Network
 
 9. Deploy the Dapp in any website host using the files generated in **public** folder.
 
+## Why?
+The idea of this project was to simpy study solidity and how this can be functional in real world NFT collections although this project can be used in production, this isn't the best code possible and can enhanced in the future.
+
+## Found a bug?
+Create a issue in the repo or simply create a pull request with the solution and a description about it (I'll thank a lot).
+
 ## Disclaimer
 This code was **heavily** based on [Hashlips mint dapp repository](https://github.com/hashlips-lab/nft-erc721-collection/tree/main/minting-dapp) so give a star on that project too!
 
