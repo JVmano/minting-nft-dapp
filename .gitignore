@@ -105,3 +105,4 @@ dist
 
 # Result build files
 public/build
+.DS_Store
